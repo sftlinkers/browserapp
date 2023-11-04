@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="go_btn">Go Button</string>
+    <string name="settings_btn">Settings Button</string>
+    <string name="search_hint">Search</string>
+
+    <string name="homePage">HomePage</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="allbookmark">All Bookmark</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="fullscreen">FullScreen</string>
+    <string name="save">Save</string>
+    <string name="desktop">Desktop</string>
+    <string name="bookmark_name">Bookmark Name</string>
+    <string name="view_all">View All</string>
+    <string name="all_bookmarks">All Bookmarks</string>
+    <string name="refresh_btn">Refresh</string>
+    <string name="one">1</string>
+
+    <string name="main_url">https://development.softwarelinkers.in/browser/api/</string>
+    <string name="homebookmark_url">https://development.softwarelinkers.in/browser/api/get_bookmark.php</string>
+    <string name="allbookmark_url">https://development.softwarelinkers.in/browser/api/get_bookmark.php</string>
+    <string name="session_api">session.php</string>
+    <string name="get_session_api">https://development.softwarelinkers.in/browser/api/get_session.php</string>
+    <string name="fullHistoryApi">https://development.softwarelinkers.in/browser/api/history.php</string>
+
+    <string name="get_bookmark_api">api/get_bookmark.php</string>
+    <string name="history_api">api/history.php</string>
+    <string name="fttoplinks_api">api/ft_toplinks.php</string>
+    <string name="user_register_api">api/user-register.php</string>
+    <string name="user_login_api">https://development.softwarelinkers.in/browser/api/login.php</string>
+    <string name="history">History</string>
+    <string name="your_history">Your History</string>
+    <string name="all_history">All History</string>
+    <string name="all_session">Session List</string>
+    <string name="bokkmarlis">Bookmark list</string>
+    <string name="allSessionList">Session List</string>
+    <string name="logout">LogOut</string>
+
+    <string-array name="session_types">
+        <item>Free</item>
+        <item>VPN</item>
+    </string-array>
+
+</resources>
